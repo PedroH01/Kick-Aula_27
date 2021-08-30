@@ -7,5 +7,17 @@ body{
 .box{
     width: 200px;
     height: 200px;
+    margin: 5px;
+}
+
+.c-violet{
     background-color: blueviolet;
+}
+
+.c-red{
+    background-color: seagreen;
+}
+
+.c-blue{
+    background-color: skyblue;
 }
